@@ -39,9 +39,9 @@ The project focuses on:
 | Figure | Description |
 |:-------|:-------------|
 | ![Figure 1](figures/fig2_residuals_model_YEARS_LOG.png) | **Figure 1:** Relationship between EU Membership Duration and Voter Turnout *(positive correlation)* |
-| ![Figure 2](fig2_residuals_YEARS_LOG.png) | **Figure 2:** Residual Plot for Regression Model *(YEARS_LOG)* |
-| ![Figure 3](fig3_predicted_vs_actual.png) | **Figure 3:** Predicted vs Actual Turnout with Residual Distances *(model fit visualization)* |
-| ![Figure 4](fig4_turnout_vs_number_of_seats.png) | **Figure 4:** Number of Seats vs Voter Turnout *(weak correlation)* |
+| ![Figure 2](figures/fig2_residuals_model_YEARS_LOG.png) | **Figure 2:** Residual Plot for Regression Model *(YEARS_LOG)* |
+| ![Figure 3](figures/fig3_predicted_vs_actual_turnout.png) | **Figure 3:** Predicted vs Actual Turnout with Residual Distances *(model fit visualization)* |
+| ![Figure 4](figures/fig4_turnout_vs_number_of_seats.png) | **Figure 4:** Number of Seats vs Voter Turnout *(weak correlation)* |
 
 ---
 
