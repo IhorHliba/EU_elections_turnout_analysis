@@ -38,10 +38,10 @@ The project focuses on:
 
 | Figure | Description |
 |:-------|:-------------|
-| ![Figure 1](figures/Rplot01.png) | **Figure 1:** Relationship between EU Membership Duration and Voter Turnout *(positive correlation)* |
-| ![Figure 2](figures/Rplot02.png) | **Figure 2:** Residual Plot for Regression Model *(YEARS_LOG)* |
-| ![Figure 3](figures/Rplot03.png) | **Figure 3:** Predicted vs Actual Turnout with Residual Distances *(model fit visualization)* |
-| ![Figure 4](figures/Rplot04.png) | **Figure 4:** Number of Seats vs Voter Turnout *(weak correlation)* |
+| ![Figure 1](fig1_turnout_vs_years_in_EU.png) | **Figure 1:** Relationship between EU Membership Duration and Voter Turnout *(positive correlation)* |
+| ![Figure 2](fig2_residuals_YEARS_LOG.png) | **Figure 2:** Residual Plot for Regression Model *(YEARS_LOG)* |
+| ![Figure 3](fig3_predicted_vs_actual.png) | **Figure 3:** Predicted vs Actual Turnout with Residual Distances *(model fit visualization)* |
+| ![Figure 4](fig4_turnout_vs_number_of_seats.png) | **Figure 4:** Number of Seats vs Voter Turnout *(weak correlation)* |
 
 ---
 
@@ -57,7 +57,7 @@ The project focuses on:
 ## 👨‍💻 Authors scripts
 **Ihor Hliba** and **Kristýna Ševčíková**  
 [LinkedIn](https://www.linkedin.com/in/ihorhliba)  
-
+[LinkedIn](https://www.linkedin.com/in/krist%C3%BDna-%C5%A1ev%C4%8D%C3%ADkov%C3%A1/)  
 ---
 
 
